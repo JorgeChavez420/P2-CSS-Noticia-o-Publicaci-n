@@ -1,0 +1,117 @@
+.nav-enlace{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background-color: orchid;
+}
+
+body{
+    background-color: black;
+}    
+h1{
+   color: #9E34EB; 
+}   
+h3{
+    color: #00fbff ;  
+}
+h4{
+    color: darkmagenta;   
+}  
+.Contenedor img{
+    position: absolute;
+    bottom: -100px;
+    right: 1100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor1 img{
+    position: absolute;
+    bottom: -100px;
+    left: 1100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor2 img{
+    position: absolute;
+    bottom: -100px;
+    left: 670px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor3 img{
+    position: absolute;
+    bottom: -450px;
+    left: 670px;
+    padding: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+
+}
+.Styleletters{
+    position: absolute;
+    bottom: -150px;
+    right: 1142px;    
+}.Styleletters1{
+    position: absolute;
+    bottom: -150px;
+    left: 1148px;       
+}
+.Styleletters2{
+    position: absolute;
+    bottom: -150px;
+    left: 745px;          
+}
+.Styleletters3{
+    position: absolute;
+    bottom: -500px;
+    left: 721px; 
+}
+
+.Marca{
+    position: absolute;
+    bottom: -750px;
+    left: 500px;         
+}
+.Contacto{
+    position: absolute;
+    bottom: -700px;
+    left: 5px;             
+}
+.Comentarios{
+    position: absolute;
+    bottom: -550px;
+    left: 5px;    
+}
+.LetrasGaleria{
+    color: magenta;
+    position: absolute;
+    bottom: 220px;
+    left: 655px;       
+}
+.Barra{
+    position: absolute;
+    bottom: 475px;
+    left: 475px;       
+}
+.Saludo{
+    position: absolute;
+    bottom: 485px;
+    left: 600px;        
+}  
+.Texto{
+    position: absolute;
+    bottom: 375px;
+    left: 20px;
+}     
+.Imagen{
+    position: absolute;
+    bottom: 542px;
+    left: 630px;       
+}    
